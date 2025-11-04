@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/neads-version/static/css/main.411f30f8.css",
+    "main.js": "/neads-version/static/js/main.3bd692fd.js",
+    "static/media/loigo-l-r.png": "/neads-version/static/media/loigo-l-r.b6f27189d768164018cc.png",
+    "static/media/loigo-l-r-nav.png": "/neads-version/static/media/loigo-l-r-nav.2fd2f7edfbe6fd06a832.png",
+    "static/media/about.jpg": "/neads-version/static/media/about.3c6846c418437919051d.jpg",
+    "static/media/w-i-1.jpg": "/neads-version/static/media/w-i-1.826175d68767cb8dec87.jpg",
+    "static/media/s-a.jpg": "/neads-version/static/media/s-a.94ae4c39a12ea44b8ba5.jpg",
+    "static/media/w-s-d-e.jpg": "/neads-version/static/media/w-s-d-e.e4ffaf98a5327b9b62a5.jpg",
+    "index.html": "/neads-version/index.html",
+    "main.411f30f8.css.map": "/neads-version/static/css/main.411f30f8.css.map",
+    "main.3bd692fd.js.map": "/neads-version/static/js/main.3bd692fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411f30f8.css",
+    "static/js/main.3bd692fd.js"
+  ]
+}

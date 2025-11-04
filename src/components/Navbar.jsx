@@ -54,7 +54,7 @@ const Navbar = () => {
 
           {/* Desktop Navigation */}
           <div className="navbar-links">
-            <Link to="/" className="navbar-link">
+            <Link to="/home" className="navbar-link">
               Home
             </Link>
             <Link to="/about" className="navbar-link">
@@ -84,7 +84,7 @@ const Navbar = () => {
         {/* Mobile Navigation */}
         <div className={`navbar-mobile-menu ${mobileMenuOpen ? "open" : ""}`}>
           <Link
-            to="/"
+            to="/home"
             className="navbar-mobile-link"
             onClick={toggleMobileMenu}
           >

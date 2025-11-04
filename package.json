@@ -1,6 +1,6 @@
 {
   "name": "neads-version",
-  "homepage": "https://neuraq-technologies.github.io/neads-version/",
+  "homepage": "https://neuraq-technologies.github.io/neads-version/home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
